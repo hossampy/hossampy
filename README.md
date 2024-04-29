@@ -17,4 +17,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossampy&show_icons=true&locale=en&layout=compact" alt="hossampy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossampy&" alt="hossampy" /></p>
